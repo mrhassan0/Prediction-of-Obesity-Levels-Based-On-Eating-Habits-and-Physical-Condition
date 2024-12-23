@@ -6,7 +6,6 @@ The "Estimation of Obesity Levels Based on Eating Habits and Physical Condition"
 2. Dataset Description
 Source
 Link: Dataset on ScienceDirect https://www.sciencedirect.com/science/article/pii/S2352340919306985?via%3Dihub
-Reference: All references
 
 Dataset Description
 Number of Features: 17 features (including the target variable NObeyesdad).
