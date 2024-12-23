@@ -1,4 +1,4 @@
-# Prediction-of-Obesity-Levels-Based-On-Eating-Habits-and-Physical-Condition
+# rediction-of-Obesity-Levels-Based-On-Eating-Habits-and-Physical-Condition
 The "Estimation of Obesity Levels Based on Eating Habits and Physical Condition" dataset aims to predict an individual's obesity level based on features like eating habits, physical condition, and lifestyle factors. The target variable has multiple classes, making it a classification problem focused on identifying patterns for accurate predictions.
 1. Introduction
 The "Estimation of Obesity Levels Based on Eating Habits and Physical Condition" dataset is designed to solve a classification problem that aims to predict an individual's obesity level based on various features. These features include factors related to eating habits, physical conditions, and other lifestyle factors. The target variable is the obesity level, which is categorized into different classes, providing an opportunity to build a model that classifies individuals into these obesity categories. This problem involves extracting meaningful patterns from these features to make accurate predictions.
